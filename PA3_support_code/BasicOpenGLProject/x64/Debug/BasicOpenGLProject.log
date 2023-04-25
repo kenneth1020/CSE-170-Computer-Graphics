@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Kenneth Tran\Documents\CSE 170\PA2_support_code\BasicOpenGLProject\main.cpp(421,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Kenneth Tran\Documents\CSE 170\PA2_support_code\BasicOpenGLProject\main.cpp(439,13): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Kenneth Tran\Documents\CSE 170\PA2_support_code\BasicOpenGLProject\main.cpp(444,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Kenneth Tran\Documents\CSE 170\PA2_support_code\BasicOpenGLProject\main.cpp(449,13): warning C4305: '-=': truncation from 'double' to 'float'
+  BasicOpenGLProject.vcxproj -> C:\Users\Kenneth Tran\Documents\CSE 170\PA2_support_code\x64\Debug\OpenGLProject.exe
